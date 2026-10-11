@@ -1,0 +1,7 @@
+---
+---
+@import "{{ site.theme }}";
+
+.tabs { display: flex; gap: 1rem; padding: 1rem; }
+.tabs a { text-decoration: none; padding: .4rem .8rem; border-radius: 6px; }
+.tabs a.active { background: rgba(255,255,255,.2); font-weight: bold; }
