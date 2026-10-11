@@ -1,4 +1,4 @@
-### My Website
+### Chedalabs Homelab
 
 Welcome to my GitHub page!
 
