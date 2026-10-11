@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Home
+title: Chedalabs Homelab
 permalink: /
 ---
 
 {% include nav.html %}
 
-### Chedalabs Homelab
+### Home Page
 
 Welcome to my GitHub page!
 
