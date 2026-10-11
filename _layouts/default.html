@@ -1,0 +1,9 @@
+<nav class="tabs">
+  {% for item in site.data.navigation %}
+    {% assign active = page.url == item.url %}
+    <a href="{{ item.url | relative_url }}"
+       class="{% if active %}active{% endif %}">
+      {{ item.title }}
+    </a>
+  {% endfor %}
+</nav>
